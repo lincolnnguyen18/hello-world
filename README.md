@@ -90,6 +90,6 @@ Heading 2
 |------------|-----------------|
 | 7:         | Why i           |
 
-[ ]
+[ ] Test
 [x] Good job  
 [x] test
