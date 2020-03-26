@@ -1,3 +1,4 @@
+# Zen mode in VS Code
 # hello-world
 another repo
 ## learning markdown!
@@ -68,11 +69,26 @@ I read this interesting quote the other day:
 This is a check  
 Yoyoyo brobrobo  
 haha  
+yes
 
-This is a test
-yes\
-Another test
+## Requirements
 
+ - Bullet point?
+ - Bullet point 2?
 
-With key
-# Success!
+Heading 1
+====================
+Heading 2
+--
+| Start time | Tasks completed                                  |
+|------------|--------------------------------------------------|
+| 1:50 AM    | Woke up, brushed teeth, update journal and diary |
+| 2:29 PM    | This is a test                                   |
+| 4:49 PM    | Wow! So pretty!                                  |
+
+| Start time | Tasks completed |
+|------------|-----------------|
+| 7:         | Why i           |
+
+[x] Good job  
+[x] test
